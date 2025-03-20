@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>kavya</id>
-		    <url>http://3.113.21.141:8081/repository/sample-snapshots/</url>
+		    <url>http://18.179.13.79:8081/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>kavya</id>
-		    <url>http://3.113.21.141:8081/repository/sample-releases/</url>
+		    <url>http://18.179.13.79:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
